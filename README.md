@@ -6,3 +6,5 @@ This repository is for GEOG5588 to illustrate the bare bones structure of a fron
 ## Example of sub heading 2
 
 ### Example of sub heading 3
+
+### Demonstrating Local Change
